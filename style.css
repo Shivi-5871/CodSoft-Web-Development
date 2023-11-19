@@ -1,0 +1,169 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+    padding: 0;
+  }
+header {
+    background-color: #4e0202;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
+
+header h1 {
+    margin: 0;
+  }
+
+section{
+   padding: 160px 15px 120px;
+}
+
+/* #profile img{
+   /* height: 500px;
+   width: 300px;
+   border: 2px solid rgb(0, 0, 0);
+   float: right;
+   margin: auto;
+   text-align: center;
+   margin-right:23%;
+   position: relative; */
+/* } */ 
+
+/* #profile{
+   text-align: center;
+   padding: 20px 0;
+}
+ 
+#profile img {
+   width: 90px;
+   border-radius: 30%;
+} */
+
+#about {
+   text-align: center;
+   padding: 20px 0;
+ }
+ 
+ #about img {
+   width: 100px;
+   border-radius: 30%;
+   border: solid;
+ }
+
+.slide{
+   margin-bottom: 20px;
+}
+.home-text h1{
+   font-size: xx-large;
+   font-weight: 700;
+   color:var(--text-color);
+   line-height: 1.1;
+   margin: 0 0 8px;
+   padding-left: 21%;
+}
+.home-text h4{
+   color:var(--text-color);
+   padding-left: 21%;
+   font-size: large;
+   font-weight: 700;
+   line-height: 1.1;
+}
+.home-text p{
+   color: var(--second-color);
+   font-size: var(--p-font);
+   line-height: 1.8;
+   margin-bottom: 40px;
+   margin-top: -40px;
+}
+
+#about {
+    text-align: center;
+    padding: 20px 0;
+    
+}
+
+#about img {
+  width: 200px;
+  height: 300px;;
+} 
+  
+.projects {
+    text-align: center;
+    padding: 1px 0; /* For horizontal centering */
+}
+
+img {
+    max-width: 100%; /* Ensure the image does not exceed the width of its container */
+    height: 500x;
+    width: 400px; /* Maintain aspect ratio */
+}
+
+.projects {
+    text-align: center; /* For horizontal centering */
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+#project{
+    text-align: center;
+    padding: 20px 0;
+  }
+
+.project h2{
+   color: black;
+   align-items: center;
+   text-align: center;
+   margin-top: 20px;
+   font-size: 30px;
+ }
+
+.project h3{
+    font-size: 20px;
+    color: var(--text-color);
+    align-items: center;
+    text-align: center;
+ }
+ 
+.projects h4{
+    font-size: 20px;
+    color: var(--text-color);
+    align-items: center;
+    text-align: center;
+ }
+
+#resume,
+#contact {
+  text-align: center;
+  padding: 20px 0;
+}
+
+#resume a {
+  text-decoration: none;
+  color: #4e0202;
+  border: 1px solid #4e0202;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+header {
+   background-color: #4e0202;
+   color: #fff;
+   text-align: center;
+   padding: 20px 0;
+}
+
+header h1 {
+  margin: 0;
+}
+
+footer {
+   background-color: #4e0202;
+   color: #fff;
+   text-align: center;
+   padding: 20px 0;
+}
